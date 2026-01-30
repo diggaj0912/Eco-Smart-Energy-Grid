@@ -1,0 +1,7 @@
+{
+  "name": "Eco-Smart Energy Grid",
+  "description": "An AI-powered smart city dashboard for monitoring energy grids, analyzing live alerts, and executing load-balancing actions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
